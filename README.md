@@ -13,3 +13,9 @@ NLP
     --> remove the stop words using corpus
     --> JOin the split words in to the string
 > applying the model
+
+
+Library used in nlp
+---------
+clean - text
+ > pip install clean-text
